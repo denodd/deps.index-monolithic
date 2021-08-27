@@ -1,0 +1,49 @@
+name: update
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: '30 1 * * *'
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - 'README.md'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      run: |
+        git init -q --initial-branch=${GITHUB_REF#refs/heads/}
+        git pull -q https://$GITHUB_ACTOR:${{ secrets.GITHUB_TOKEN }}@${GITHUB_SERVER_URL#https://}/$GITHUB_REPOSITORY.git ${GITHUB_REF#refs/heads/}
+
+    - name: empty
+      run: |
+        rm -r * || :
+
+    - name: clone upstream
+      run: |
+        git clone --depth=1 https://github.com/denosaurs/deps.index.git
+
+    - name: flatten
+      run: |
+        cd deps.index
+        for repo_dir in $(echo */)
+        do
+          repo=${repo_dir%/}
+          echo '[' >> ../$repo.json
+          find $repo_dir -type f \! -name '*.json' | xargs -I'{}' cat '{}' | sed 's/$/,/g' >> ../$repo.json
+          sed -i '$ s/,$//' ../$repo.json
+          echo ']' >> ../$repo.json
+        done
+
+    - name: delete upstream
+      run: |
+        rm -rf deps.index
+
+    - name: push
+      run: |
+        git config user.name update
+        git config user.email update@action
+        git add -A
+        git commit -q -m "bump: $(date -I)" || :
+        git push -q https://$GITHUB_ACTOR:${{ secrets.GITHUB_TOKEN }}@${GITHUB_SERVER_URL#https://}/$GITHUB_REPOSITORY.git ${GITHUB_REF#refs/heads/}
