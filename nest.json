@@ -625,6 +625,7 @@
 {"name":"hyper-port-crawler","desc":"Hyper service framework port for Crawler adapters","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.0.2"},
 {"name":"hyper-adapter-queue","desc":"Hyper Queue adapter","repo":"https://github.com/hyper63/hyper-adapter-queue","reg":"nest","vers":"0.0.1"},
 {"name":"hyper-adapter-queue","desc":"Hyper Queue adapter","repo":"https://github.com/hyper63/hyper-adapter-queue","reg":"nest","vers":"0.0.2"},
+{"name":"hyper-adapter-sqlite","desc":"Hyper Cache port adapter for sqlite","repo":"https://github.com/hyper63/hyper-adapter-sqlite","reg":"nest","vers":"0.0.2"},
 {"name":"hyper-app-graphql","desc":"Hyper service framework standalone GQL app, or mount on your custom opine app","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.2.0"},
 {"name":"hyper-app-graphql","desc":"Hyper service framework standalone GQL app, or mount on your custom opine app","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.3.0"},
 {"name":"hyper-adapter-elasticsearch","desc":"Hyper Search port adapter for Elasticsearch","repo":"https://github.com/hyper63/hyper-adapter-elasticsearch","reg":"nest","vers":"0.1.1"},
