@@ -901,6 +901,7 @@
 {"name":"cliffy","desc":"Command line framework for Deno 🦕","repo":"https://cliffy.io","reg":"nest","vers":"0.19.4"},
 {"name":"cliffy","desc":"Command line framework for Deno 🦕","repo":"https://cliffy.io","reg":"nest","vers":"0.19.5"},
 {"name":"cliffy","desc":"Command line framework for Deno 🦕","repo":"https://cliffy.io","reg":"nest","vers":"0.19.6"},
+{"name":"clear","desc":"🧽 Utilities to clean the console + CLI App","repo":"https://github.com/UltiRequiem/deno-clear","reg":"nest","vers":"1.2.2"},
 {"name":"mysql","desc":"MySQL driver for Deno","repo":"https://github.com/manyuanrong/deno_mysql","reg":"nest","vers":"v2.6.0"},
 {"name":"mysql","desc":"MySQL driver for Deno","repo":"https://github.com/manyuanrong/deno_mysql","reg":"nest","vers":"v2.6.1"},
 {"name":"mysql","desc":"MySQL driver for Deno","repo":"https://github.com/manyuanrong/deno_mysql","reg":"nest","vers":"v2.7.0"},
