@@ -1470,6 +1470,8 @@
 {"name":"is_json","desc":"JSON validator for deno 🦕","repo":"https://github.com/moncefplastin07/deno-is-json","reg":"nest","vers":"1.0.0"},
 {"name":"is_json","desc":"JSON validator for deno 🦕","repo":"https://github.com/moncefplastin07/deno-is-json","reg":"nest","vers":"1.0.1"},
 {"name":"is_json","desc":"JSON validator for deno 🦕","repo":"https://github.com/moncefplastin07/deno-is-json","reg":"nest","vers":"1.0.2"},
+{"name":"is_numeric","desc":"Check if an string is Numeric","repo":"https://github.com/UltiRequiem/deno-is-numeric","reg":"nest","vers":"0.0.1"},
+{"name":"is_number","desc":"Check if an string is Numeric","repo":"https://github.com/UltiRequiem/deno-is-number","reg":"nest","vers":"0.0.2"},
 {"name":"is-regex","desc":"RegExp patterns validator 🦕","repo":"https://github.com/moncefplastin07/deno-is-regex","reg":"nest","vers":"v1.0.0"},
 {"name":"iso-git","desc":"Wraps `isomorphic-git` to work with deno.","repo":"https://github.com/sramam/iso-git","reg":"nest","vers":"0.1.1"},
 {"name":"iso-git","desc":"Wraps `isomorphic-git` to work with deno.","repo":"https://github.com/sramam/iso-git","reg":"nest","vers":"0.1.2"},
