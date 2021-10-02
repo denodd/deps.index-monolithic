@@ -1902,6 +1902,7 @@
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.0.4"},
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.0.5"},
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.0.6"},
+{"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.0.7"},
 {"name":"hyper-adapter-redis","desc":"Hyper Cache port adapter for redis","repo":"https://github.com/hyper63/hyper-adapter-redis","reg":"nest","vers":"1.2.7"},
 {"name":"hyper-adapter-redis","desc":"Hyper Cache port adapter for redis","repo":"https://github.com/hyper63/hyper-adapter-redis","reg":"nest","vers":"1.2.8"},
 {"name":"hyper-adapter-redis","desc":"Hyper Cache port adapter for redis","repo":"https://github.com/hyper63/hyper-adapter-redis","reg":"nest","vers":"1.2.9"},
