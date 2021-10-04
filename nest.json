@@ -1634,6 +1634,7 @@
 {"name":"convert-size","desc":"a lib to convert bettwen files size","repo":"https://github.com/AliBasicCoder/convert-size","reg":"nest","vers":"1.1.2"},
 {"name":"convert-size","desc":"a lib to convert between files size","repo":"https://github.com/AliBasicCoder/convert-size","reg":"nest","vers":"1.1.7"},
 {"name":"convert-size","desc":"a lib to convert between files size","repo":"https://github.com/AliBasicCoder/convert-pro","reg":"nest","vers":"1.1.8"},
+{"name":"convert-size","desc":"a lib to convert between files size","repo":"https://github.com/AliBasicCoder/convert-pro","reg":"nest","vers":"1.2.0"},
 {"name":"core_fn","desc":"A collection of built-in object method and property as currying function","repo":"https://github.com/TomokiMiyauci/core-fn#readme","reg":"nest","vers":"v1.0.0-beta.1"},
 {"name":"core_fn","desc":"A collection of built-in object method and property as currying function","repo":"https://github.com/TomokiMiyauci/core-fn#readme","reg":"nest","vers":"v1.0.0-beta.2"},
 {"name":"core_fn","desc":"A collection of built-in object method and property as currying function","repo":"https://github.com/TomokiMiyauci/core-fn#readme","reg":"nest","vers":"v1.0.0-beta.3"},
