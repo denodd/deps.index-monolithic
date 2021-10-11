@@ -829,6 +829,7 @@
 {"name":"rpc","desc":"📡 JSONRPC server implementation for Deno","repo":"https://github.com/deno-libs/rpc","reg":"nest","vers":"0.0.0"},
 {"name":"rpc","desc":"📡 JSONRPC server implementation for Deno","repo":"https://github.com/deno-libs/rpc","reg":"nest","vers":"0.0.2"},
 {"name":"rpc","desc":"📡 JSONRPC server implementation for Deno","repo":"https://github.com/deno-libs/rpc","reg":"nest","vers":"0.0.3"},
+{"name":"rpc","desc":"📡 JSONRPC server implementation for Deno","repo":"https://github.com/deno-libs/rpc","reg":"nest","vers":"0.0.4"},
 {"name":"dos","desc":"Os info for deno","repo":"https://github.com/moncefplastin07/deno-os","reg":"nest","vers":"0.1.0"},
 {"name":"dmm","desc":"Lightweight Deno Module Manager","repo":"https://github.com/drashland/dmm","reg":"nest","vers":"1.1.5"},
 {"name":"dmm","desc":"Lightweight Deno Module Manager","repo":"https://github.com/drashland/dmm","reg":"nest","vers":"1.2.0"},
