@@ -377,6 +377,7 @@
 {"name":"is_json","desc":"JSON validator for deno 🦕","repo":"https://github.com/moncefplastin07/deno-is-json","reg":"nest","vers":"1.0.0"},
 {"name":"is_json","desc":"JSON validator for deno 🦕","repo":"https://github.com/moncefplastin07/deno-is-json","reg":"nest","vers":"1.0.1"},
 {"name":"is_json","desc":"JSON validator for deno 🦕","repo":"https://github.com/moncefplastin07/deno-is-json","reg":"nest","vers":"1.0.2"},
+{"name":"is_unicode_supported","desc":"Detect whether the terminal supports Unicode","repo":"https://github.com/UltiRequiem/deno_is_unicode_supported","reg":"nest","vers":"0.0.1"},
 {"name":"iso-git","desc":"Wraps `isomorphic-git` to work with deno.","repo":"https://github.com/sramam/iso-git","reg":"nest","vers":"0.1.1"},
 {"name":"iso-git","desc":"Wraps `isomorphic-git` to work with deno.","repo":"https://github.com/sramam/iso-git","reg":"nest","vers":"0.1.2"},
 {"name":"iso-git","desc":"Wraps `isomorphic-git` to work with deno.","repo":"https://github.com/sramam/iso-git","reg":"nest","vers":"0.1.3"},
