@@ -1698,6 +1698,7 @@
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.1.4"},
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.1.5"},
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.1.6"},
+{"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.1.7"},
 {"name":"hyper-test","desc":"hyper test suite","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.0.1"},
 {"name":"hyper-test","desc":"hyper test suite","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.0.2"},
 {"name":"hyper-adapter-minisearch","desc":"Hyper Search port adapter for Minisearch","repo":"https://github.com/hyper63/hyper-adapter-minisearch","reg":"nest","vers":"1.0.9"},
