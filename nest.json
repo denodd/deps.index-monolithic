@@ -2,6 +2,7 @@
 {"name":"odds-converter","desc":"A simple class and CLI tool for converting betting odds","repo":"https://github.com/c-m-hunt/odds-converter","reg":"nest","vers":"0.0.1"},
 {"name":"odds-converter","desc":"A simple class and CLI tool for converting betting odds","repo":"https://github.com/c-m-hunt/odds-converter","reg":"nest","vers":"1.0.1"},
 {"name":"odds-converter","desc":"A simple class and CLI tool for converting betting odds","repo":"https://github.com/c-m-hunt/odds-converter","reg":"nest","vers":"1.0.2"},
+{"name":"Yenv","desc":"Helper for env vars and env files.","repo":null,"reg":"nest","vers":"1.0.0"},
 {"name":"explicitly","desc":"Additional assertions for Deno so developers can write more explicit unit tests.","repo":"https://github.com/robdwaller/explicitly","reg":"nest","vers":"0.4.0"},
 {"name":"explicitly","desc":"Additional assertions for Deno so developers can write more explicit unit tests.","repo":"https://github.com/robdwaller/explicitly","reg":"nest","vers":"0.5.0"},
 {"name":"expect","desc":"helpers for writing jest like expect tests in deno","repo":"https://github.com/allain/expect","reg":"nest","vers":"0.2.1"},
