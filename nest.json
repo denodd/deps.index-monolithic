@@ -2138,6 +2138,7 @@
 {"name":"deno-lodash","desc":"Using lodash in Deno","repo":"https://github.com/michael-spengler/deno-lodash","reg":"nest","vers":"1.0.0"},
 {"name":"dena","desc":"A promise based Deta http api wrapper for deno.","repo":null,"reg":"nest","vers":"1.0.2"},
 {"name":"deploy_route","desc":"Routing module for deno deploy 🦕","repo":"https://github.com/c4spar/deno-deploy-route","reg":"nest","vers":"0.1.0"},
+{"name":"degui2","desc":"Webview module and app framework for Deno","repo":null,"reg":"nest","vers":"1.0.0-alpha"},
 {"name":"dero_framework","desc":"Fast web framework for Deno (support native HTTP/2 Hyper and std/http)","repo":"https://github.com/herudi/dero","reg":"nest","vers":"1.0.0"},
 {"name":"dero_framework","desc":"Fast web framework for Deno (support native HTTP/2 Hyper and std/http)","repo":"https://github.com/herudi/dero","reg":"nest","vers":"1.0.1"},
 {"name":"dero_framework","desc":"Fast web framework for Deno (support native HTTP/2 Hyper and std/http)","repo":"https://github.com/herudi/dero","reg":"nest","vers":"1.0.2"},
