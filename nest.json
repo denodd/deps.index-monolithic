@@ -1,5 +1,8 @@
 [
 {"name":"physics--space","desc":"Model aspects of the 2D and the 3D space in an object oriented style","repo":"https://gitlab.com/awesome-nodes/deno/mint-communications/physics/space.git","reg":"nest","vers":"0.0.0"},
+{"name":"0.0.5","desc":"Unofficial prometheus plugin for discordeno","repo":"https://github.com/TriForMine/discordeno-prometheus-plugin","reg":"nest","vers":"0.0.6"},
+{"name":"0.0.4","desc":"Unofficial prometheus plugin for discordeno","repo":null,"reg":"nest","vers":"0.0.5"},
+{"name":"0.0.3","desc":"Unofficial prometheus plugin for discordeno","repo":null,"reg":"nest","vers":"0.0.2"},
 {"name":"is-mobile","desc":"Check if the request is from mobile browser or no, based on user agent","repo":"https://github.com/moncefplastin07/deno-is-mobile","reg":"nest","vers":"1.0.0"},
 {"name":"is_json","desc":"JSON validator for deno 🦕","repo":"https://github.com/moncefplastin07/deno-is-json","reg":"nest","vers":"1.0.0"},
 {"name":"is_json","desc":"JSON validator for deno 🦕","repo":"https://github.com/moncefplastin07/deno-is-json","reg":"nest","vers":"1.0.1"},
@@ -1304,6 +1307,8 @@
 {"name":"discordeno_yavalink_plugin","desc":"unofficial lavalink plugin for discordeno","repo":null,"reg":"nest","vers":"1.0.0"},
 {"name":"discordeno_yavalink_plugin","desc":"unofficial lavalink plugin for discordeno","repo":null,"reg":"nest","vers":"1.0.1"},
 {"name":"discordeno_yavalink_plugin","desc":"unofficial lavalink plugin for discordeno","repo":null,"reg":"nest","vers":"1.0.2"},
+{"name":"discordeno_prometheus_plugin","desc":"Unofficial prometheus plugin for discordeno","repo":"https://github.com/TriForMine/discordeno-prometheus-plugin","reg":"nest","vers":"0.0.8"},
+{"name":"discordeno_prometheus_plugin","desc":"Unofficial prometheus plugin for discordeno","repo":"https://github.com/TriForMine/discordeno-prometheus-plugin","reg":"nest","vers":"0.0.9"},
 {"name":"discordeno-helper","desc":"Discordeno framework for faster development","repo":"https://github.com/Suyashtnt/Discordeno-Helper","reg":"nest","vers":"0.1.1"},
 {"name":"discordeno-helper","desc":"Discordeno framework for faster development","repo":"https://github.com/Suyashtnt/Discordeno-Helper","reg":"nest","vers":"0.1.2"},
 {"name":"discordeno-helper","desc":"Discordeno framework for faster development","repo":"https://github.com/Suyashtnt/Discordeno-Helper","reg":"nest","vers":"1.0.1"},
