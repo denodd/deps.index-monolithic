@@ -2120,6 +2120,8 @@
 {"name":"dynamodb-marshaller-lite","desc":"Module to provide minimum functionality marshalling plain JS objects to DynamoDB format","repo":"https://github.com/cawilson1/deno-dynamodb-marshaller-lite","reg":"nest","vers":"0.2.3"},
 {"name":"pwchecker","desc":"A tool to check the password security.","repo":null,"reg":"nest","vers":"v0.1.0"},
 {"name":"pwchecker","desc":"A tool to check the password security.","repo":null,"reg":"nest","vers":"v0.1.1"},
+{"name":"lthash","desc":"LtHash implementation in pure JavaScript.","repo":"https://github.com/yuhr/lthash","reg":"nest","vers":"1.0.0"},
+{"name":"lthash","desc":"LtHash implementation in pure JavaScript.","repo":"https://github.com/yuhr/lthash","reg":"nest","vers":"1.1.0"},
 {"name":"down","desc":"📉 Check if website is down using `ping` command","repo":"https://github.com/deno-libs/down","reg":"nest","vers":"1.0.0"},
 {"name":"down","desc":"📉 Check if website is down using `ping` command","repo":"https://github.com/deno-libs/down","reg":"nest","vers":"1.0.2"},
 {"name":"dotenv-parser","desc":"A fast, zero-permission dotenv parser.","repo":"https://github.com/ymonb1291/dotenv-parser","reg":"nest","vers":"0.1.2-0"},
