@@ -630,6 +630,7 @@
 {"name":"init","desc":"Generate a Deno configuration file.","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"v2.0.0"},
 {"name":"init","desc":"Generate a Deno configuration file.","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"v2.0.1"},
 {"name":"init","desc":"Generate a Deno configuration file.","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"v2.1.0"},
+{"name":"init","desc":"Generate a Deno configuration file.","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"v2.1.1"},
 {"name":"ghtop","desc":"See what's happening on GitHub in realtime","repo":"https://github.com/maximousblk/ghtop","reg":"nest","vers":"1.0.0"},
 {"name":"astrodon","desc":"Desktop App Framework for Deno, based in Tauri","repo":"https://github.com/astrodon/astrodon","reg":"nest","vers":"0.1.0-alpha"},
 {"name":"astrodon","desc":"Desktop App Framework for Deno, based in Tauri","repo":"https://github.com/astrodon/astrodon","reg":"nest","vers":"0.1.0-alpha.2"},
