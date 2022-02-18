@@ -1314,6 +1314,7 @@
 {"name":"reno","desc":"A thin routing library designed to sit on top of Deno's standard HTTP module","repo":"https://github.com/reno-router/reno/","reg":"nest","vers":"2.0.23"},
 {"name":"reno","desc":"A thin routing library designed to sit on top of Deno's standard HTTP module","repo":"https://github.com/reno-router/reno/","reg":"nest","vers":"2.0.24"},
 {"name":"reno","desc":"A thin routing library designed to sit on top of Deno's standard HTTP module","repo":"https://github.com/reno-router/reno/","reg":"nest","vers":"2.0.25"},
+{"name":"reno","desc":"A thin routing library designed to sit on top of Deno's standard HTTP module","repo":"https://github.com/reno-router/reno/","reg":"nest","vers":"2.0.26"},
 {"name":"registries","desc":"This module helps to synchronize Deno registries - e.g. https://deno.land and https://nest.land","repo":null,"reg":"nest","vers":"v0.1.2"},
 {"name":"registerable","desc":"Check if it can be registered as a module name or domain name","repo":"https://github.com/TomokiMiyauci/registerable#readme","reg":"nest","vers":"v1.1.0-beta.5"},
 {"name":"registerable","desc":"Check if it can be registered as a module name or domain name","repo":"https://github.com/TomokiMiyauci/registerable#readme","reg":"nest","vers":"v1.1.0-beta.6"},
