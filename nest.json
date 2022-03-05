@@ -2033,6 +2033,7 @@
 {"name":"mapcss","desc":"Tiny, composable atomic CSS engine","repo":"https://github.com/TomokiMiyauci/mapcss","reg":"nest","vers":"v1.0.0-beta.25"},
 {"name":"mapcss","desc":"Tiny, composable atomic CSS engine","repo":"https://github.com/TomokiMiyauci/mapcss","reg":"nest","vers":"v1.0.0-beta.26"},
 {"name":"mapcss","desc":"Tiny, composable atomic CSS engine","repo":"https://github.com/TomokiMiyauci/mapcss","reg":"nest","vers":"v1.0.0-beta.28"},
+{"name":"mapcss","desc":"Tiny, composable atomic CSS engine","repo":"https://github.com/TomokiMiyauci/mapcss","reg":"nest","vers":"v1.0.0-beta.29"},
 {"name":"maze_generator","desc":"A module for generating mazes","repo":"https://github.com/thewizardbear/maze_generator","reg":"nest","vers":"0.0.8"},
 {"name":"maze_generator","desc":"A module for generating mazes","repo":"https://github.com/thewizardbear/maze_generator","reg":"nest","vers":"0.1.0-alpha.0"},
 {"name":"maze_generator","desc":"A module for generating mazes","repo":"https://github.com/thewizardbear/maze_generator","reg":"nest","vers":"0.1.0-alpha.1"},
