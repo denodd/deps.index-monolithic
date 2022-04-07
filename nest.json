@@ -1072,6 +1072,7 @@
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.1.12"},
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.1.13"},
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.1.14"},
+{"name":"hyper-adapter-pouchdb","desc":"Hyper Data port adapter for PouchDB","repo":"https://github.com/hyper63/hyper-adapter-pouchdb","reg":"nest","vers":"0.1.0"},
 {"name":"hyper-adapter-minisearch","desc":"Hyper Search port adapter for Minisearch","repo":"https://github.com/hyper63/hyper-adapter-minisearch","reg":"nest","vers":"1.0.9"},
 {"name":"hyper-adapter-minisearch","desc":"Hyper Search port adapter for Minisearch","repo":"https://github.com/hyper63/hyper-adapter-minisearch","reg":"nest","vers":"1.0.10"},
 {"name":"hyper-adapter-minisearch","desc":"Hyper Search port adapter for Minisearch","repo":"https://github.com/hyper63/hyper-adapter-minisearch","reg":"nest","vers":"1.0.11"},
