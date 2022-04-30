@@ -1780,6 +1780,7 @@
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.1.17"},
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.1.18"},
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.1.19"},
+{"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.1.20"},
 {"name":"hyper-adapter-dndb","desc":"Hyper Data port adapter for dndb","repo":"https://github.com/hyper63/hyper-adapter-dndb","reg":"nest","vers":"0.0.1"},
 {"name":"hyper-adapter-dndb","desc":"Hyper Data port adapter for dndb","repo":"https://github.com/hyper63/hyper-adapter-dndb","reg":"nest","vers":"0.0.2"},
 {"name":"hyper-adapter-dndb","desc":"Hyper Data port adapter for dndb","repo":"https://github.com/hyper63/hyper-adapter-dndb","reg":"nest","vers":"0.0.3"},
