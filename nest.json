@@ -1829,6 +1829,7 @@
 {"name":"hyper-adapter-couchdb","desc":"Hyper Data port adapter for CouchDB","repo":"https://github.com/hyper63/hyper-adapter-couchdb","reg":"nest","vers":"2.0.0"},
 {"name":"hyper-adapter-couchdb","desc":"Hyper Data port adapter for CouchDB","repo":"https://github.com/hyper63/hyper-adapter-couchdb","reg":"nest","vers":"3.0.0"},
 {"name":"hyper-adapter-couchdb","desc":"Hyper Data port adapter for CouchDB","repo":"https://github.com/hyper63/hyper-adapter-couchdb","reg":"nest","vers":"3.0.1"},
+{"name":"hyper-adapter-couchdb","desc":"Hyper Data port adapter for CouchDB","repo":"https://github.com/hyper63/hyper-adapter-couchdb","reg":"nest","vers":"3.0.2"},
 {"name":"Yutils","desc":"Some smaller modules.","repo":null,"reg":"nest","vers":"1.0.0"},
 {"name":"Yutils","desc":"Some smaller modules.","repo":null,"reg":"nest","vers":"1.0.1"},
 {"name":"Yutils","desc":"Some smaller modules.","repo":null,"reg":"nest","vers":"1.0.2"},
