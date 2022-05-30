@@ -1462,6 +1462,8 @@
 {"name":"oasis","desc":"A bleeding-edge object oriented Discordeno framework","repo":"https://github.com/yuzudev/oasis","reg":"nest","vers":"1.0.1"},
 {"name":"oasis","desc":"A bleeding-edge object oriented Discordeno framework","repo":"https://github.com/yuzudev/oasis","reg":"nest","vers":"1.2.1"},
 {"name":"oasis","desc":"A bleeding-edge object oriented Discordeno framework","repo":"https://github.com/yuzudev/oasis","reg":"nest","vers":"1.3.0"},
+{"name":"oasis","desc":"A bleeding-edge object oriented Discordeno framework","repo":"https://github.com/yuzudev/oasis","reg":"nest","vers":"1.4.0"},
+{"name":"oasis","desc":"A bleeding-edge object oriented Discordeno framework","repo":"https://github.com/yuzudev/oasis","reg":"nest","vers":"1.4.1"},
 {"name":"hiro-astrodon","desc":"Desktop App Framework for Deno, based in Tauri","repo":"https://github.com/astrodon/astrodon","reg":"nest","vers":"0.1.0-alpha"},
 {"name":"favQuote-cli","desc":"Get favourite or random quote cli","repo":"https://github.com/yeukfei02/favQuote-cli","reg":"nest","vers":"0.1.8"},
 {"name":"favQuote-cli","desc":"Get favourite or random quote cli","repo":"https://github.com/yeukfei02/favQuote-cli","reg":"nest","vers":"0.1.9"},
