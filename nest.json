@@ -1620,6 +1620,7 @@
 {"name":"sinco","desc":"Browser Automation and Testing Tool for Deno.","repo":null,"reg":"nest","vers":"1.0.0"},
 {"name":"sinco","desc":"Browser Automation and Testing Tool for Deno.","repo":null,"reg":"nest","vers":"1.1.0"},
 {"name":"sinco","desc":"Browser Automation and Testing Tool for Deno.","repo":null,"reg":"nest","vers":"1.1.1"},
+{"name":"sinco","desc":"Browser Automation and Testing Tool for Deno.","repo":null,"reg":"nest","vers":"4.0.0"},
 {"name":"sessions","desc":"Sessions for Deno web frameworks","repo":"https://github.com/jcs224/deno_sessions","reg":"nest","vers":"1.2.0"},
 {"name":"sessions","desc":"Sessions for Deno web frameworks","repo":"https://github.com/jcs224/deno_sessions","reg":"nest","vers":"1.3.0"},
 {"name":"sessions","desc":"Sessions for Deno web frameworks","repo":"https://github.com/jcs224/deno_sessions","reg":"nest","vers":"1.4.0"},
