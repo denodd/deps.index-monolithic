@@ -1543,6 +1543,7 @@
 {"name":"djwt","desc":"Create and verify JSON Web Tokens (JWT) with deno.","repo":"https://github.com/timonson/djwt","reg":"nest","vers":"0.1.6"},
 {"name":"djwt","desc":"Create and verify JSON Web Tokens (JWT) with deno.","repo":"https://github.com/timonson/djwt","reg":"nest","vers":"0.1.7"},
 {"name":"djwt","desc":"Create and verify JSON Web Tokens (JWT) with deno.","repo":"https://github.com/timonson/djwt","reg":"nest","vers":"0.1.8"},
+{"name":"djwt","desc":"Create and verify JSON Web Tokens (JWT) with Deno or the browser.","repo":"https://github.com/timonson/djwt","reg":"nest","vers":"0.1.9"},
 {"name":"ghtop","desc":"See what's happening on GitHub in realtime","repo":"https://github.com/maximousblk/ghtop","reg":"nest","vers":"1.0.0"},
 {"name":"hyper-test","desc":"hyper test suite","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.0.1"},
 {"name":"hyper-test","desc":"hyper test suite","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.0.2"},
