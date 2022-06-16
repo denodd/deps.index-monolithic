@@ -770,6 +770,8 @@
 {"name":"aitertools","desc":"Well-tested utility functions dealing with async iterables","repo":"https://github.com/dahlia/aitertools","reg":"nest","vers":"0.3.0"},
 {"name":"aitertools","desc":"Well-tested utility functions dealing with async iterables","repo":"https://github.com/dahlia/aitertools","reg":"nest","vers":"0.3.1"},
 {"name":"aitertools","desc":"Well-tested utility functions dealing with async iterables","repo":"https://github.com/dahlia/aitertools","reg":"nest","vers":"0.4.0-dev.12+8c9339e"},
+{"name":"aitertools","desc":"Well-tested utility functions dealing with async iterables","repo":"https://github.com/dahlia/aitertools","reg":"nest","vers":"0.4.0-dev.14+99854c9"},
+{"name":"aitertools","desc":"Well-tested utility functions dealing with async iterables","repo":"https://github.com/dahlia/aitertools","reg":"nest","vers":"0.4.0-dev.15+3f191d7"},
 {"name":"Crony","desc":"Manage all your cron jobs in one file","repo":null,"reg":"nest","vers":"0.0.1"},
 {"name":"Crony","desc":"Manage all your cron jobs in one file","repo":null,"reg":"nest","vers":"0.0.2"},
 {"name":"validasaur","desc":"Deno validation library that slightly inspired by Laravel Validation","repo":"https://github.com/emsifa/validasaur","reg":"nest","vers":"0.9.1"},
