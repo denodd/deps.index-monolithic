@@ -2231,6 +2231,7 @@
 {"name":"csssr-charts-vault","desc":null,"repo":null,"reg":"nest","vers":"1.0.0-alpha.3"},
 {"name":"csssr-charts-vault","desc":null,"repo":null,"reg":"nest","vers":"1.0.0"},
 {"name":"csssr-charts-vault","desc":null,"repo":null,"reg":"nest","vers":"1.1.0"},
+{"name":"csssr-charts-vault","desc":null,"repo":null,"reg":"nest","vers":"1.1.1"},
 {"name":"csssr-charts-common","desc":null,"repo":null,"reg":"nest","vers":"0.0.0-0"},
 {"name":"csssr-charts-common","desc":null,"repo":null,"reg":"nest","vers":"1.0.0-alpha.1"},
 {"name":"csssr-charts-common","desc":null,"repo":null,"reg":"nest","vers":"1.0.0"},
