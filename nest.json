@@ -671,6 +671,7 @@
 {"name":"rimbu","desc":"Immutable collections and tools for TypeScript","repo":"https://rimbu.org","reg":"nest","vers":"0.11.3"},
 {"name":"rimbu","desc":"Immutable collections and tools for TypeScript","repo":"https://rimbu.org","reg":"nest","vers":"0.11.4"},
 {"name":"rimbu","desc":"Immutable collections and tools for TypeScript","repo":"https://rimbu.org","reg":"nest","vers":"0.11.5"},
+{"name":"rimbu","desc":"Immutable collections and tools for TypeScript","repo":"https://rimbu.org","reg":"nest","vers":"0.11.6"},
 {"name":"bodyparser","desc":"pre-configured middlewares for deligenius framework","repo":"https://github.com/deligenius/bodyparser","reg":"nest","vers":"1.0.0"},
 {"name":"boxes","desc":"A small DSL for building Dockerfiles or Docker compose files","repo":"https://git.sr.ht/~ruivieira/deno-boxes","reg":"nest","vers":"0.0.2"},
 {"name":"eggs","desc":"The CLI used to publish and update packages in nest.land.","repo":"https://github.com/nestdotland/nest.land","reg":"nest","vers":"0.0.1"},
