@@ -123,6 +123,7 @@
 {"name":"nhttp_validator","desc":"Body validator for Deno nhttp","repo":"https://github.com/nhttp/nhttp_validator","reg":"nest","vers":"0.3.0"},
 {"name":"lthash","desc":"LtHash implementation in pure JavaScript.","repo":"https://github.com/yuhr/lthash","reg":"nest","vers":"1.0.0"},
 {"name":"lthash","desc":"LtHash implementation in pure JavaScript.","repo":"https://github.com/yuhr/lthash","reg":"nest","vers":"1.1.0"},
+{"name":"lthash","desc":"LtHash implementation in pure JavaScript.","repo":"https://github.com/yuhr/lthash","reg":"nest","vers":"2.0.0"},
 {"name":"mysql","desc":"MySQL driver for Deno","repo":"https://github.com/manyuanrong/deno_mysql","reg":"nest","vers":"v2.6.0"},
 {"name":"mysql","desc":"MySQL driver for Deno","repo":"https://github.com/manyuanrong/deno_mysql","reg":"nest","vers":"v2.6.1"},
 {"name":"mysql","desc":"MySQL driver for Deno","repo":"https://github.com/manyuanrong/deno_mysql","reg":"nest","vers":"v2.7.0"},
