@@ -2260,6 +2260,7 @@
 {"name":"biscuit","desc":"A brand new bleeding edge non bloated Discord library","repo":"https://github.com/oasisjs/biscuit","reg":"nest","vers":"0.1.0"},
 {"name":"biscuit","desc":"A brand new bleeding edge non bloated Discord library","repo":"https://github.com/oasisjs/biscuit","reg":"nest","vers":"0.1.1"},
 {"name":"biscuit","desc":"A brand new bleeding edge non bloated Discord library","repo":"https://github.com/oasisjs/biscuit","reg":"nest","vers":"0.2.0"},
+{"name":"biscuit","desc":"A brand new bleeding edge non bloated Discord library","repo":"https://github.com/oasisjs/biscuit","reg":"nest","vers":"0.2.1"},
 {"name":"CICD","desc":"Deno Module for Continuous Deployment","repo":"https://github.com/michael-spengler/cicd","reg":"nest","vers":"v0.3.1"},
 {"name":"CICD","desc":"Deno Module for Continuous Deployment","repo":"https://github.com/michael-spengler/cicd","reg":"nest","vers":"v0.3.2"},
 {"name":"CICD","desc":"Deno Module for Continuous Deployment","repo":"https://github.com/michael-spengler/cicd","reg":"nest","vers":"v0.4.1"},
