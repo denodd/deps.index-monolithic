@@ -642,6 +642,7 @@
 {"name":"Nessie","desc":"A modular database migration module for Deno.","repo":"https://github.com/halvardssm/deno-nessie","reg":"nest","vers":"2.0.1"},
 {"name":"Nessie","desc":"A modular database migration module for Deno.","repo":"https://github.com/halvardssm/deno-nessie","reg":"nest","vers":"2.0.4"},
 {"name":"Nessie","desc":"A modular database migration module for Deno.","repo":"https://github.com/halvardssm/deno-nessie","reg":"nest","vers":"2.0.5"},
+{"name":"Nessie","desc":"A modular database migration module for Deno.","repo":"https://github.com/halvardssm/deno-nessie","reg":"nest","vers":"2.0.7"},
 {"name":"sinco","desc":"Browser Automation and Testing Tool for Deno.","repo":null,"reg":"nest","vers":"1.0.0"},
 {"name":"sinco","desc":"Browser Automation and Testing Tool for Deno.","repo":null,"reg":"nest","vers":"1.1.0"},
 {"name":"sinco","desc":"Browser Automation and Testing Tool for Deno.","repo":null,"reg":"nest","vers":"1.1.1"},
