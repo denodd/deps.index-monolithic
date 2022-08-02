@@ -2474,6 +2474,8 @@
 {"name":"csssr-charts-backend","desc":"CSSSR Helm Chart Backend Microservice Library","repo":null,"reg":"nest","vers":"1.1.15"},
 {"name":"csssr-charts-backend","desc":"CSSSR Helm Chart Backend Microservice Library","repo":null,"reg":"nest","vers":"1.1.16"},
 {"name":"csssr-charts-backend","desc":"CSSSR Helm Chart Backend Microservice Library","repo":null,"reg":"nest","vers":"1.1.17"},
+{"name":"csssr-charts-backend","desc":"CSSSR Helm Chart Backend Microservice Library","repo":null,"reg":"nest","vers":"1.1.18"},
+{"name":"csssr-charts-backend","desc":"CSSSR Helm Chart Backend Microservice Library","repo":null,"reg":"nest","vers":"1.1.19"},
 {"name":"csssr-charts-common","desc":null,"repo":null,"reg":"nest","vers":"0.0.0-0"},
 {"name":"csssr-charts-common","desc":null,"repo":null,"reg":"nest","vers":"1.0.0-alpha.1"},
 {"name":"csssr-charts-common","desc":null,"repo":null,"reg":"nest","vers":"1.0.0"},
