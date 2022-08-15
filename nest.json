@@ -1602,6 +1602,7 @@
 {"name":"jumbo","desc":null,"repo":null,"reg":"nest","vers":"2.4.1"},
 {"name":"jumbo","desc":null,"repo":null,"reg":"nest","vers":"2.5.1"},
 {"name":"jumbo","desc":null,"repo":null,"reg":"nest","vers":"2.6.1"},
+{"name":"jumbo","desc":null,"repo":null,"reg":"nest","vers":"2.7.1"},
 {"name":"DeMoji","desc":"Convert text-mojis to REAL emojis!!","repo":"https://github.com/CoderNinja123/DeMoji","reg":"nest","vers":"0.1.0"},
 {"name":"DeMoji","desc":"Convert text-mojis to REAL emojis!!","repo":"https://github.com/CoderNinja123/DeMoji","reg":"nest","vers":"0.1.1"},
 {"name":"DeMoji","desc":"Convert text-mojis to REAL emojis!!","repo":"https://github.com/CoderNinja123/DeMoji","reg":"nest","vers":"0.2.0"},
