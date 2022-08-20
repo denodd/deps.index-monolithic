@@ -1297,6 +1297,7 @@
 {"name":"csssr-charts-vault","desc":null,"repo":null,"reg":"nest","vers":"1.1.0"},
 {"name":"csssr-charts-vault","desc":null,"repo":null,"reg":"nest","vers":"1.1.1"},
 {"name":"csssr-charts-vault","desc":null,"repo":null,"reg":"nest","vers":"1.1.2"},
+{"name":"utilitiesmonorepo","desc":"A Deno Module with Multiple utility tools","repo":"https://github.com/mskian/deno-utilities-monorepo","reg":"nest","vers":"0.0.1"},
 {"name":"utilities","desc":"🦕    module for several kinds of utilities 🛠   like random delays, shuffling array contents etc. Feel free to add stuff you find useful via PR. 🤓","repo":"https://github.com/michael-spengler/utilities","reg":"nest","vers":"v1.1.1"},
 {"name":"utilitypes","desc":"A collection of utility types for TypeScript","repo":"https://github.com/TomokiMiyauci/utilitypes#readme","reg":"nest","vers":"v1.0.0-beta.1"},
 {"name":"utilitypes","desc":"A collection of utility types for TypeScript","repo":"https://github.com/TomokiMiyauci/utilitypes#readme","reg":"nest","vers":"v1.0.0-beta.2"},
