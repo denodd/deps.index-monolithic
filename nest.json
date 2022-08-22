@@ -506,6 +506,8 @@
 {"name":"node_buffer","desc":"node.js buffer in deno","repo":"https://github.com/AliBasicCoder/node-buffer","reg":"nest","vers":"1.0.2"},
 {"name":"node_buffer","desc":"node.js buffer in deno","repo":"https://github.com/AliBasicCoder/node-buffer","reg":"nest","vers":"1.0.3"},
 {"name":"node_buffer","desc":"node.js buffer in deno","repo":"https://github.com/AliBasicCoder/node-buffer","reg":"nest","vers":"1.1.0"},
+{"name":"tsds","desc":"Future TypeScript Data Structure","repo":"https://samavati.github.io/tsds/","reg":"nest","vers":"1.7.2"},
+{"name":"tsds","desc":"Future TypeScript Data Structure","repo":"https://samavati.github.io/tsds/","reg":"nest","vers":"1.7.3"},
 {"name":"ts-dotenv-deno","desc":"Port of ts-dotenv for deno","repo":null,"reg":"nest","vers":"1.0.0"},
 {"name":"ts-dotenv-deno","desc":"Port of ts-dotenv for deno","repo":null,"reg":"nest","vers":"1.1.0"},
 {"name":"resulty","desc":"Provides simple, Rust-like Result and Option objects for Deno.","repo":"https://github.com/robdwaller/resulty","reg":"nest","vers":"0.3.0"},
