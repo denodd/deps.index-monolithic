@@ -946,6 +946,7 @@
 {"name":"chart","desc":"Console ASCII line charts with no dependencies","repo":"https://github.com/maximousblk/chart","reg":"nest","vers":"1.0.1"},
 {"name":"chrono","desc":"A date utility library","repo":"https://github.com/ymonb1291/chrono","reg":"nest","vers":"v1.2.0"},
 {"name":"chrono","desc":"A date utility library","repo":"https://github.com/ymonb1291/chrono","reg":"nest","vers":"v1.3.0"},
+{"name":"this","desc":"Extends the Deno global scope by injecting functions and variables into globalThis.","repo":"https://github.com/deno911/this","reg":"nest","vers":"0.153.0"},
 {"name":"autopilot","desc":"Cross platform desktop automation for Deno","repo":"https://github.com/divy-work/autopilot-deno","reg":"nest","vers":"0.0.1"},
 {"name":"autopilot","desc":"Cross platform desktop automation for Deno","repo":"https://github.com/divy-work/autopilot-deno","reg":"nest","vers":"0.0.2"},
 {"name":"autopilot","desc":"Cross platform desktop automation for Deno","repo":"https://github.com/divy-work/autopilot-deno","reg":"nest","vers":"0.0.3"},
