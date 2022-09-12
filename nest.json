@@ -116,6 +116,7 @@
 {"name":"Thread","desc":"Type-safe multi-threading made 'easier'","repo":null,"reg":"nest","vers":"2.1.0"},
 {"name":"Thread","desc":"Type-safe multi-threading made 'easier'","repo":null,"reg":"nest","vers":"2.2.0"},
 {"name":"Thread","desc":"Type-safe multi-threading made 'easier'","repo":"https://github.com/duart38/Thread","reg":"nest","vers":"2.3.1"},
+{"name":"Thread","desc":"Type-safe multi-threading made 'easier'","repo":"https://github.com/duart38/Thread","reg":"nest","vers":"4.0.0"},
 {"name":"batch_gcd","desc":"A Deno module allowing you to check one aspect of RSA key security.","repo":"https://github.com/oplik0/deno-batch-gcd","reg":"nest","vers":"1.0.0"},
 {"name":"harmony","desc":"An easy to use Discord API Library for Deno.","repo":"https://github.com/harmonyland/harmony","reg":"nest","vers":"v1.1.2"},
 {"name":"harmony","desc":"An easy to use Discord API Library for Deno.","repo":"https://github.com/harmonyland/harmony","reg":"nest","vers":"v1.1.3"},
