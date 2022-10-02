@@ -2353,6 +2353,8 @@
 {"name":"rambda","desc":"Lightweight and faster alternative to Ramda with included TS definitions","repo":"https://github.com/selfrefactor/rambda","reg":"nest","vers":"7.1.4"},
 {"name":"rambda","desc":"Lightweight and faster alternative to Ramda with included TS definitions","repo":"https://github.com/selfrefactor/rambda","reg":"nest","vers":"7.1.5"},
 {"name":"rambda","desc":"Lightweight and faster alternative to Ramda with included TS definitions","repo":"https://github.com/selfrefactor/rambda","reg":"nest","vers":"7.1.6"},
+{"name":"rambda","desc":"Lightweight and faster alternative to Ramda with included TS definitions","repo":"https://github.com/selfrefactor/rambda","reg":"nest","vers":"7.2.0"},
+{"name":"rambda","desc":"Lightweight and faster alternative to Ramda with included TS definitions","repo":"https://github.com/selfrefactor/rambda","reg":"nest","vers":"7.3.0"},
 {"name":"tinyhttp","desc":"0-legacy, tiny & fast web framework as a replacement of Express","repo":"https://github.com/talentlessguy/tinyhttp-deno","reg":"nest","vers":"0.0.2"},
 {"name":"tinyhttp","desc":"0-legacy, tiny & fast web framework as a replacement of Express","repo":"https://github.com/talentlessguy/tinyhttp-deno","reg":"nest","vers":"0.0.3"},
 {"name":"tinyhttp","desc":"0-legacy, tiny & fast web framework as a replacement of Express","repo":"https://github.com/talentlessguy/tinyhttp-deno","reg":"nest","vers":"0.0.4"},
