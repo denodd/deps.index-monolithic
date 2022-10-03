@@ -234,6 +234,7 @@
 {"name":"rimbu","desc":"Immutable collections and tools for TypeScript","repo":"https://rimbu.org","reg":"nest","vers":"0.12.0"},
 {"name":"rimbu","desc":"Immutable collections and tools for TypeScript","repo":"https://rimbu.org","reg":"nest","vers":"0.12.1"},
 {"name":"rimbu","desc":"Immutable collections and tools for TypeScript","repo":"https://rimbu.org","reg":"nest","vers":"0.12.2"},
+{"name":"rimbu","desc":"Immutable collections and tools for TypeScript","repo":"https://rimbu.org","reg":"nest","vers":"0.12.3"},
 {"name":"shorty","desc":"CLI Tool and library to shorten URLS.","repo":"https://github.com/UltiRequiem/shory","reg":"nest","vers":"1.1.1"},
 {"name":"mac-address","desc":"Provides the mac address of the current device","repo":"https://github.com/michael-spengler/mac-address","reg":"nest","vers":"1.0.0"},
 {"name":"mac-address","desc":"Provides the mac address of the current device","repo":"https://github.com/michael-spengler/mac-address","reg":"nest","vers":"v1.1.0"},
