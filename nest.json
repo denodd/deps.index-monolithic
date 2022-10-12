@@ -1625,6 +1625,7 @@
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.4.0"},
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.5.0"},
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.5.1"},
+{"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.5.2"},
 {"name":"hyper-adapter-sqlite","desc":"Hyper Cache port adapter for sqlite","repo":"https://github.com/hyper63/hyper-adapter-sqlite","reg":"nest","vers":"0.0.2"},
 {"name":"hyper-adapter-sqlite","desc":"Hyper Cache port adapter for sqlite","repo":"https://github.com/hyper63/hyper-adapter-sqlite","reg":"nest","vers":"0.0.3"},
 {"name":"hyper-adapter-sqlite","desc":"Hyper Cache port adapter for sqlite","repo":"https://github.com/hyper63/hyper-adapter-sqlite","reg":"nest","vers":"0.0.4"},
