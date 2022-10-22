@@ -2808,5 +2808,7 @@
 {"name":"hyper-adapter-pouchdb","desc":"Hyper Data port adapter for PouchDB","repo":"https://github.com/hyper63/hyper-adapter-pouchdb","reg":"nest","vers":"0.1.4"},
 {"name":"hyper-adapter-pouchdb","desc":"Hyper Data port adapter for PouchDB","repo":"https://github.com/hyper63/hyper-adapter-pouchdb","reg":"nest","vers":"0.1.5"},
 {"name":"hyper-adapter-pouchdb","desc":"Hyper Data port adapter for PouchDB","repo":"https://github.com/hyper63/hyper-adapter-pouchdb","reg":"nest","vers":"0.1.6"},
-{"name":"this","desc":"Extends the Deno global scope by injecting functions and variables into globalThis.","repo":"https://github.com/deno911/this","reg":"nest","vers":"0.153.0"}
+{"name":"this","desc":"Extends the Deno global scope by injecting functions and variables into globalThis.","repo":"https://github.com/deno911/this","reg":"nest","vers":"0.153.0"},
+{"name":"this","desc":"Extends the Deno global scope by injecting functions and variables into globalThis.","repo":"https://github.com/deno911/this","reg":"nest","vers":"0.160.0"},
+{"name":"this","desc":"Extends the Deno global scope by injecting functions and variables into globalThis.","repo":"https://github.com/deno911/this","reg":"nest","vers":"0.160.1"}
 ]
