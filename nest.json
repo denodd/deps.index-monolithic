@@ -1697,6 +1697,7 @@
 {"name":"djwt","desc":"Create and verify JSON Web Tokens (JWT) with deno.","repo":"https://github.com/timonson/djwt","reg":"nest","vers":"0.1.8"},
 {"name":"djwt","desc":"Create and verify JSON Web Tokens (JWT) with Deno or the browser.","repo":"https://github.com/timonson/djwt","reg":"nest","vers":"0.1.9"},
 {"name":"djwt","desc":"Create and verify JSON Web Tokens (JWT) with deno.","repo":"https://github.com/timonson/djwt","reg":"nest","vers":"0.1.10"},
+{"name":"djwt","desc":"Create and verify JSON Web Tokens (JWT) with deno and the browser.","repo":"https://github.com/timonson/djwt","reg":"nest","vers":"0.1.11"},
 {"name":"kill-port","desc":"Module that kills the process of an informed port","repo":"https://github.com/gustavofabro/deno_kill_port","reg":"nest","vers":"1.0.0"},
 {"name":"kill-port","desc":"Module that kills the process of an informed port","repo":"https://github.com/gustavofabro/deno_kill_port","reg":"nest","vers":"1.0.1"},
 {"name":"chrono","desc":"A date utility library","repo":"https://github.com/ymonb1291/chrono","reg":"nest","vers":"v1.2.0"},
