@@ -2587,6 +2587,7 @@
 {"name":"serve","desc":"A super simple Deno file server","repo":"https://github.com/maximousblk/serve","reg":"nest","vers":"1.0.2"},
 {"name":"serve","desc":"A super simple Deno file server","repo":"https://github.com/maximousblk/serve","reg":"nest","vers":"1.0.3"},
 {"name":"serve","desc":"A super simple Deno file server","repo":"https://github.com/maximousblk/serve","reg":"nest","vers":"1.0.5"},
+{"name":"serialize","desc":"Serialize JS/TS into a superset of JSON, supporting Date, BigInt, RegExp, Maps, and more.","repo":null,"reg":"nest","vers":"1.0.0-rc.1"},
 {"name":"sequencer","desc":"sequencer - a deno 🦕 module for sequential promises","repo":"https://github.com/bKiraly/sequencer","reg":"nest","vers":"1.1.0"},
 {"name":"segno","desc":"segno (Segnosaurus). Validation library for Deno. Enforcing a high security standard.","repo":"https://github.com/Keimeno/segno","reg":"nest","vers":"0.3.0"},
 {"name":"segno","desc":"segno (Segnosaurus). Validation library for Deno. Enforcing a high security standard.","repo":"https://github.com/Keimeno/segno","reg":"nest","vers":"1.0.0"},
