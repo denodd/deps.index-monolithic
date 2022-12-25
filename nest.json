@@ -771,6 +771,7 @@
 {"name":"commandline-processor","desc":"Execute commands, start shell scripts etc.","repo":null,"reg":"nest","vers":"0.1.1"},
 {"name":"commandline-processor","desc":"Execute commands, start shell scripts etc.","repo":null,"reg":"nest","vers":"1.0.0"},
 {"name":"ethereum","desc":"Deno Module to interact with the Ethereum Network - e.g. providing an etherscan api wrapper ... ","repo":"https://github.com/michael-spengler/ethereum","reg":"nest","vers":"v1.1.2"},
+{"name":"etag","desc":"ETag encoding and decoding utility for Deno.","repo":"https://github.com/deno911/etag","reg":"nest","vers":"0.2.0"},
 {"name":"random-int","desc":"Generate a random integer in deno","repo":"https://github.com/yg/random-int","reg":"nest","vers":"1.0.0"},
 {"name":"rambda","desc":"Lightweight and faster alternative to Ramda with included TS definitions","repo":"https://github.com/selfrefactor/rambda","reg":"nest","vers":"7.0.4"},
 {"name":"rambda","desc":"Lightweight and faster alternative to Ramda with included TS definitions","repo":"https://github.com/selfrefactor/rambda","reg":"nest","vers":"7.0.5"},
