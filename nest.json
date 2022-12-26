@@ -1324,6 +1324,8 @@
 {"name":"sequencer","desc":"sequencer - a deno 🦕 module for sequential promises","repo":"https://github.com/bKiraly/sequencer","reg":"nest","vers":"1.1.0"},
 {"name":"serialize","desc":"Serialize JS/TS into a superset of JSON, supporting Date, BigInt, RegExp, Maps, and more.","repo":null,"reg":"nest","vers":"1.0.0-rc.1"},
 {"name":"serialize","desc":"Serialize JS/TS into a superset of JSON, supporting Date, BigInt, RegExp, Maps, and more.","repo":"https://github.com/deno911/serialize","reg":"nest","vers":"1.0.0-rc.2"},
+{"name":"serialize","desc":"Serialize JS/TS into a superset of JSON, supporting Date, BigInt, RegExp, Maps, and more.","repo":"https://github.com/deno911/serialize","reg":"nest","vers":"1.0.0"},
+{"name":"serialize","desc":"Serialize JS/TS into a superset of JSON, supporting Date, BigInt, RegExp, Maps, and more.","repo":"https://github.com/deno911/serialize","reg":"nest","vers":"1.1.0"},
 {"name":"sessions","desc":"Sessions for Deno web frameworks","repo":"https://github.com/jcs224/deno_sessions","reg":"nest","vers":"1.2.0"},
 {"name":"sessions","desc":"Sessions for Deno web frameworks","repo":"https://github.com/jcs224/deno_sessions","reg":"nest","vers":"1.3.0"},
 {"name":"sessions","desc":"Sessions for Deno web frameworks","repo":"https://github.com/jcs224/deno_sessions","reg":"nest","vers":"1.4.0"},
