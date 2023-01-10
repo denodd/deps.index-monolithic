@@ -882,6 +882,7 @@
 {"name":"tytest","desc":"🃏 Deno-first type testing tools","repo":"https://github.com/TomokiMiyauci/tytest","reg":"nest","vers":"v1.0.0-beta.12"},
 {"name":"tytest","desc":"🃏 Deno-first type testing tools","repo":"https://github.com/TomokiMiyauci/tytest","reg":"nest","vers":"v1.0.0-beta.13"},
 {"name":"tytest","desc":"🃏 Deno-first type testing tools","repo":"https://github.com/TomokiMiyauci/tytest","reg":"nest","vers":"v1.0.0-beta.14"},
+{"name":"katsura","desc":"discordeno framework","repo":null,"reg":"nest","vers":"0.0.1-0"},
 {"name":"space","desc":"Space Explorer","repo":null,"reg":"nest","vers":"0.1.0"},
 {"name":"space","desc":"Space Explorer","repo":null,"reg":"nest","vers":"0.1.1"},
 {"name":"space","desc":"Space Explorer","repo":null,"reg":"nest","vers":"0.2.0"},
